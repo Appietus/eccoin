@@ -9,7 +9,7 @@ What is ECC?
 ECC is an experimental digital currency that enables instant payments to
 anyone, anywhere in the world. ECC uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
-out collectively by the network.
+out collectively by the network. Decentralisation is a key aspect.
 
 License
 -------
